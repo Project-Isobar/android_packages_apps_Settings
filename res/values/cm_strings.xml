@@ -242,4 +242,7 @@
     <!--qs tint toggle-->
     <string name="qs_bg_use_new_tint">QS tint toggle</string>
     <string name="qs_bg_use_new_tint_summary">Use accent color for qs tile icons and background (Requires systemui reboot)</string>
+
+    <!-- Used in SetupWizard Wi-Fi network selection page [CHAR LIMIT=60] -->
+    <string name="wifi_setup_wizard_title">Select Wi\u2011Fi network</string>
 </resources>
